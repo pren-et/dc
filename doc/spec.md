@@ -39,7 +39,7 @@ den PWM Eingang).
 ## Offene Fragen
 * Schutzfunktionen
     * Übertemperatur
-    * Überstrom 
+    * Überstrom (mittels selbstrückstellender [PTC Sicherung](http://uk.farnell.com/littelfuse/1812l014dr/resettable-fuse-ptc-10a-60v-1812/dp/1822211)?)
     * Überspannung
 * Speisungskonzept
 * Eingangspegel
