@@ -32,3 +32,14 @@ können, stehen zwei PWM-Generatoren zur verfügung, die auf verschiedene
 Frequenzen und Duty-Cycle eingestellt werden können (Spannungsteier o.ä.).
 Diese werden dann aus der Kombination aus DIR und ON gewählt (ein ON blockiert
 den PWM Eingang).
+
+## Ein/Aus Schalter
+* Ein Schalter (überbrückbar) für ein Enable der Spannungsversorgung
+
+## Offene Fragen
+* Schutzfunktionen
+    * Übertemperatur
+    * Überstrom 
+    * Überspannung
+* Speisungskonzept
+* Eingangspegel
