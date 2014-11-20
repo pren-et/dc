@@ -2,8 +2,8 @@
 
 [Zurück](./README.md)
 
-Die hier aufgefürten Punkte sind noch in Bearbeitung und sind noch nicht
-verbindlich.
+Die hier aufgeführten Punkte sind noch in Bearbeitung und sind somit noch
+nicht verbindlich.
 
 ## Interface
 * Das DC-Modul hat potentialfreie digitale Eingänge für Logikpegel von 3.3V
