@@ -1,5 +1,5 @@
 # Dokumentation
 
-[Zurück](./../README.md)
+[Zurück](./README.md)
 
 * [Spezifikation](./spec.md)

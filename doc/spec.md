@@ -1,6 +1,6 @@
 # Spezifikation
 
-[Zurück](./../README.md)
+[Zurück](./README.md)
 
 Die hier aufgefürten Punkte sind noch in Bearbeitung und sind noch nicht
 verbindlich.
