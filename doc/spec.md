@@ -43,7 +43,7 @@ Die Strombegrenzung am Ausgang kann durch eine Verstärkerschaltung realisiert w
 * Die Ausgangsspannung vom OPV wird am Gate eines Transistors (z.B. 2N6804) angeschlossen.
 * Der Transistor, Lastwiderstand und Shunt bilden einen geschlossenen Kreis.
 * Bei mittlerem Strom fällt am Transistor eine kleine Spannung ab, da der Widerstand Rds_on klein ist. Kommt nun der Strom an die eingestellte Strombegrenzung, steigt die Spannung am Gate an. Die Strombegrenzung stellt sich ein, da Rds grösser wird wegen dem Strom und der niedrigen Spannung Vgs.
-* 
+
 ## Offene Fragen
 * Schutzfunktionen
     * Übertemperatur
